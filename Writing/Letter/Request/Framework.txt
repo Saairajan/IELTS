@@ -1,0 +1,49 @@
+1️⃣ Greeting
+------------
+
+Dear Sir/Madam,
+
+Dear Mr./Ms. [Last Name],
+
+2️⃣ Opening & Purpose (choose 1–2)
+------------------------------------
+
+I am writing to request information about [____].
+
+I am interested in [joining/enrolling/using] [____] and would like to know more.
+
+I recently learned about [____] and would appreciate further details.
+
+3️⃣ First Request + Reason (choose 1)
+------------------------------------
+
+Could you please send me details about [], as I need this to [].
+
+I would like to know [], because [].
+
+Please let me know [], so I can [].
+
+4️⃣ Second Request + Clarification (choose 1)
+---------------------------------------------
+
+I would also like to know if [____] is available.
+
+In addition, could you confirm [____].
+
+It would be helpful if you could explain [____].
+
+5️⃣ Closing (choose 1)
+----------------------
+
+Thank you for your assistance. I look forward to your reply.
+
+I would appreciate your prompt response.
+
+Thank you in advance for your help.
+
+6️⃣ Sign-off
+------------
+
+Yours sincerely, [if you know the name]
+
+Yours faithfully, [if unknown]
